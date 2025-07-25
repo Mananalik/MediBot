@@ -1,0 +1,5 @@
+.env
+query_log.csv
+__pycache__
+models/
+vector_store/
